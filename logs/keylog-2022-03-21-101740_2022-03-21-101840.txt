@@ -1,0 +1,3 @@
+123456
+[ENTER][TAB][BACKSPACE][CAPS_LOCK]`!@#$%
+[ENTER]This [CAPS_LOCK]is a Sample log file generated using SnooPy
